@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Le energie rinnovabili coprono il 90% della nuova capacità europea",
+    "summary": "Nel 2023 l'Unione Europea ha installato una capacità record di energia rinnovabile, con solare ed eolico che rappresentano il 90% dei nuovi impianti.",
+    "categories": ["energia", "ambiente"],
+    "source": "Agenzia Europea dell'Ambiente"
+  },
+  {
+    "title": "Una città italiana azzera la lista d'attesa per gli asili",
+    "summary": "Grazie a un piano di investimenti e assunzioni, Reggio Emilia ha garantito un posto in asilo nido a tutte le famiglie richiedenti.",
+    "categories": ["società", "educazione"],
+    "source": "Comune di Reggio Emilia"
+  },
+  {
+    "title": "Scoperto un batterio che ripulisce i fiumi dall'inquinamento",
+    "summary": "Ricercatori italiani hanno isolato un batterio capace di nutrirsi di microplastiche, offrendo una soluzione naturale per depurare i corsi d'acqua.",
+    "categories": ["scienza", "ambiente"],
+    "source": "Università di Bologna"
+  },
+  {
+    "title": "Record di nuove foreste urbane piantate nel 2024",
+    "summary": "Più di 100 città europee hanno piantato foreste urbane per migliorare la qualità dell'aria e ridurre l'effetto isola di calore.",
+    "categories": ["ambiente", "città"],
+    "source": "Green Cities Coalition"
+  },
+  {
+    "title": "Start-up italiana converte rifiuti alimentari in bioplastiche",
+    "summary": "Una nuova tecnologia trasforma gli scarti di frutta e verdura in bioplastiche compostabili, riducendo i rifiuti e le emissioni di CO2.",
+    "categories": ["innovazione", "economia circolare"],
+    "source": "CircularFuture"
+  },
+  {
+    "title": "Nuovo farmaco blocca l'avanzata dell'Alzheimer nelle fasi iniziali",
+    "summary": "I risultati di uno studio clinico mostrano che il farmaco Lumora riduce del 60% la progressione dei sintomi nei pazienti trattati entro i primi due anni.",
+    "categories": ["salute", "ricerca"],
+    "source": "Rivista Medica Europea"
+  },
+  {
+    "title": "Il turismo lento rilancia i borghi italiani",
+    "summary": "Piccoli comuni riportano crescita economica grazie a percorsi di mobilità dolce e ospitalità diffusa.",
+    "categories": ["turismo", "economia"],
+    "source": "ISTAT"
+  },
+  {
+    "title": "Il 98% dei neonati italiani è vaccinato contro le malattie principali",
+    "summary": "La campagna di sensibilizzazione nazionale ha portato la copertura vaccinale ai massimi storici, proteggendo le comunità più vulnerabili.",
+    "categories": ["salute", "società"],
+    "source": "Ministero della Salute"
+  }
+]
